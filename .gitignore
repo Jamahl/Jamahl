@@ -1,0 +1,7 @@
+**/.git/
+**/.git.hidden/
+**/node_modules/
+**/.next/
+**/.nx/
+**/.angular/
+**/cache/
